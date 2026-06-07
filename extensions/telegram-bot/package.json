@@ -1,0 +1,6 @@
+{
+  "name": "pi-telegram-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot extension for pi coding agent",
+  "type": "module"
+}
