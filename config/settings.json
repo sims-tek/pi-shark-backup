@@ -1,0 +1,6 @@
+{
+  "lastChangelogVersion": "0.78.1",
+  "defaultProvider": "opencode",
+  "defaultModel": "deepseek-v4-flash-free",
+  "defaultThinkingLevel": "high"
+}
